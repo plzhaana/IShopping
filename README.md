@@ -13,11 +13,11 @@
 - 使用 vue-router 进行页面路由和 vuex 进行状态管理
 
 ##项目预览
-![1.1](/projectProview/1.1.png)
-![1.2](/projectProview/1.2.png)
-![2.1](/projectProview/2.1.png)
-![2.2](/projectProview/2.2.png)
-![3.1](/projectProview/3.1.png)
-![4.1](/projectProview/4.1.png)
+![1.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png)
+![1.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png)
+![2.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png)
+![2.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png)
+![3.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png)
+![4.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/4.1.png)
 
 
