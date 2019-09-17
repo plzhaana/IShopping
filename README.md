@@ -16,14 +16,6 @@
 
 主页|商品页|分类
 --|:--:|--
-<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="350" height="500" alt="1.1"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="350" height="500" alt="1.2"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png" width="350" height="500" alt="2.1"/>
-
-商品详情|购物车|我的
---|:--:|--
-<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png" width="350" height="500" alt="2.2"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png" width="350" height="500" alt="3.1"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/4.1.png" width="350" height="500" alt="4.1"/>
-
-主页|商品页|分类
---|:--:|--
 ![1.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png)|![1.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png)|![2.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png)
 
 商品详情|购物车|我的
