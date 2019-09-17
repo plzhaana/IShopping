@@ -12,8 +12,9 @@
 - 采用 promise + axios 进行网络请求
 - 使用 vue-router 进行页面路由和 vuex 进行状态管理
 
-##项目预览
-![1.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png)
+## 项目预览
+
+![1.1](<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="150" height="300" />)
 ![1.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png)
 ![2.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png)
 ![2.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png)
