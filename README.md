@@ -1,4 +1,4 @@
-<centre> IShopping </center>
+# IShopping
 
 ## 项目介绍
 
@@ -15,7 +15,7 @@
 ## 项目预览
 
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="360" height="600" alt="1.1"/>
-<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="360" height="600" alt="1.2"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="300" height="550" alt="1.2"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png" width="360" height="600" alt="2.1"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png" width="360" height="600" alt="2.2"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png" width="360" height="600" alt="3.1"/>
