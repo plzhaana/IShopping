@@ -1,4 +1,4 @@
-< centre> * IShopping * < /center>
+<centre> IShopping </center>
 
 ## 项目介绍
 
@@ -14,11 +14,11 @@
 
 ## 项目预览
 
-<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="150" height="300" alt="1.1"/>
-![1.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png)
-![2.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png)
-![2.2](https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png)
-![3.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png)
-![4.1](https://github.com/plzhaana/ishopping/blob/master/proJectProview/4.1.png)
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="360" height="600" alt="1.1"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="360" height="600" alt="1.2"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png" width="360" height="600" alt="2.1"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png" width="360" height="600" alt="2.2"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png" width="360" height="600" alt="3.1"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/4.1.png" width="360" height="600" alt="4.1"/>
 
 
