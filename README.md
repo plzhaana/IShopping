@@ -1,4 +1,4 @@
-# IShopping
+<h1 align="center">IShopping</h1>
 
 ## 项目介绍
 
@@ -14,12 +14,17 @@
 
 ## 项目预览
 
-<div align=left><img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="300" height="550" alt="1.1"/></div>
-<div align=left><img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="300" height="550" alt="1.2"/>
-</div>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="300" height="550" alt="1.1"/>
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="300" height="550" alt="1.2"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png" width="300" height="550" alt="2.1"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.2.png" width="300" height="550" alt="2.2"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/3.1.png" width="300" height="550" alt="3.1"/>
 <img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/4.1.png" width="300" height="550" alt="4.1"/>
 
+主页|商品页|分类
+--|:--:|--:
+<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.1.png" width="300" height="550" alt="1.1"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/1.2.png" width="300" height="550" alt="1.2"/>|<img src="https://github.com/plzhaana/ishopping/blob/master/proJectProview/2.1.png" width="300" height="550" alt="2.1"/>
 
+商品详情|购物车|我的
+--|:--:|--:
+刘备|哭|大哥
